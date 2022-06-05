@@ -1,0 +1,6 @@
+framework module Pods_ExSwiftyStoreKit {
+  umbrella header "Pods-ExSwiftyStoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
